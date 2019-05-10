@@ -1,0 +1,2 @@
+# testMcPlugin
+Test minecraft plugin
