@@ -1,0 +1,7 @@
+name: TestMcPlugin
+main: com.lhw.bukkit.testPlugin.MainPlugin
+version: "1.0"
+
+commands:
+  methor:
+    usage: summon our friend, the creeper.
